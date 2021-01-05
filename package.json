@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@vssue/api-github-v3": "^1.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "consola": "^2.7.1",
     "cross-env": "^5.2.0",
     "dayjs": "^1.8.14",
